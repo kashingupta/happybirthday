@@ -1,7 +1,3 @@
-## 🎉 Birthday Greeting Webpage 
-
-[Demo](https://kashingupta.github.io/happybirthday/)
-
 ## 🚀 How to Use
 
 1.  **Clone Repository**
